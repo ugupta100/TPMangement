@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="mysql5-16972b56e6a-21017f1c89dec31f" provider="mysql" driver="mysql5" name="MySQL - TPManagement" save-password="true" read-only="false">
+		<connection host="localhost" port="3306" server="" database="TPManagement" url="jdbc:mysql://localhost:3306/TPManagement" user="root" password="AQsJNCGi" home="/usr" type="dev"/>
+	</data-source>
+	<filters/>
+</data-sources>
